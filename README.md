@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nikita! 👋</h1>
-<h3>I am a computer science student from MSU. 🧐</h3>
+<h3>I am a computer science student from MSU. 🤓</h3>
 
 - 👀 My interests are (but not limited to) Machine Learning and Computer Vision.
 - 🐱‍💻 Currently, I'm working at [Samsung Research Russia (SRR)](https://research.samsung.com/whoweare)
