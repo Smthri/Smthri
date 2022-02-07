@@ -2,7 +2,7 @@
 <h3>I am a computer science student from MSU. 🤓</h3>
 
 - 👀 My interests are (but not limited to) Machine Learning and Computer Vision.
-- 🐱‍💻 Currently, I'm working at [Samsung Research Russia (SRR)](https://research.samsung.com/whoweare)
+- 🐱‍💻 Currently, I'm working at [Samsung Research Russia (SRR)](https://research.samsung.com/whoweare).
 - 😃 You can take a look at my [resume](https://github.com/Smthri/Smthri/blob/master/Resume.pdf).
 - 🐱‍🏍 You can always reach out to me via (preferably) [Telegram](https://t.me/lockshin1999), or [VK](https://vk.com/nickyelder).
 
