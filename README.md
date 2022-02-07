@@ -1,4 +1,5 @@
-### Hi there 👋
+![IntroBanner](header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232807F7&width=500&lines=I'm+a+computer+science+student+from+MSU!)](https://git.io/typing-svg)
 
 <!--
 **Smthri/Smthri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
